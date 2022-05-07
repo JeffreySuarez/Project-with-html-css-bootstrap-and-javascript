@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 275 339" style="enable-background:new 0 0 275 339;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.8;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.9989;fill:#FEFEFE;enable-background:new    ;}
+	.st4{opacity:0.9979;fill:#FDFDFD;enable-background:new    ;}
+	.st5{opacity:0.9968;fill:#FCFCFC;enable-background:new    ;}
+	.st6{opacity:0.9958;fill:#FBFBFB;enable-background:new    ;}
+	.st7{opacity:0.9947;fill:#FAFAFA;enable-background:new    ;}
+	.st8{opacity:0.9936;fill:#F9F9F9;enable-background:new    ;}
+	.st9{opacity:0.9926;fill:#F8F8F8;enable-background:new    ;}
+	.st10{opacity:0.9915;fill:#F7F7F7;enable-background:new    ;}
+	.st11{opacity:0.9905;fill:#F6F6F6;enable-background:new    ;}
+	.st12{opacity:0.9894;fill:#F5F5F5;enable-background:new    ;}
+	.st13{opacity:0.9884;fill:#F4F4F4;enable-background:new    ;}
+	.st14{opacity:0.9873;fill:#F3F3F3;enable-background:new    ;}
+	.st15{opacity:0.9862;fill:#F2F2F2;enable-background:new    ;}
+	.st16{opacity:0.9852;fill:#F1F1F1;enable-background:new    ;}
+	.st17{opacity:0.9841;fill:#F0F0F0;enable-background:new    ;}
+	.st18{opacity:0.9831;fill:#EFEFEF;enable-background:new    ;}
+	.st19{opacity:0.982;fill:#EEEEEE;enable-background:new    ;}
+	.st20{opacity:0.981;fill:#EDEDED;enable-background:new    ;}
+	.st21{opacity:0.9799;fill:#ECECEC;enable-background:new    ;}
+	.st22{opacity:0.9788;fill:#EBEBEB;enable-background:new    ;}
+	.st23{opacity:0.9778;fill:#EAEAEA;enable-background:new    ;}
+	.st24{opacity:0.9767;fill:#E9E9E9;enable-background:new    ;}
+	.st25{opacity:0.9757;fill:#E8E8E8;enable-background:new    ;}
+	.st26{opacity:0.9746;fill:#E7E7E7;enable-background:new    ;}
+	.st27{opacity:0.9735;fill:#E6E6E6;enable-background:new    ;}
+	.st28{opacity:0.9725;fill:#E5E5E5;enable-background:new    ;}
+	.st29{opacity:0.9714;fill:#E4E4E4;enable-background:new    ;}
+	.st30{opacity:0.9704;fill:#E3E3E3;enable-background:new    ;}
+	.st31{opacity:0.9693;fill:#E2E2E2;enable-background:new    ;}
+	.st32{opacity:0.9683;fill:#E1E1E1;enable-background:new    ;}
+	.st33{opacity:0.9672;fill:#E0E0E0;enable-background:new    ;}
+	.st34{opacity:0.9661;fill:#DFDFDF;enable-background:new    ;}
+	.st35{opacity:0.9651;fill:#DEDEDE;enable-background:new    ;}
+	.st36{opacity:0.964;fill:#DDDDDD;enable-background:new    ;}
+	.st37{opacity:0.963;fill:#DCDCDC;enable-background:new    ;}
+	.st38{opacity:0.9619;fill:#DBDBDB;enable-background:new    ;}
+	.st39{opacity:0.9608;fill:#DADADA;enable-background:new    ;}
+	.st40{opacity:0.9598;fill:#D9D9D9;enable-background:new    ;}
+	.st41{opacity:0.9587;fill:#D8D8D8;enable-background:new    ;}
+	.st42{opacity:0.9577;fill:#D7D7D7;enable-background:new    ;}
+	.st43{opacity:0.9566;fill:#D6D6D6;enable-background:new    ;}
+	.st44{opacity:0.9556;fill:#D5D5D5;enable-background:new    ;}
+	.st45{opacity:0.9545;fill:#D4D4D4;enable-background:new    ;}
+	.st46{opacity:0.9534;fill:#D3D3D3;enable-background:new    ;}
+	.st47{opacity:0.9524;fill:#D2D2D2;enable-background:new    ;}
+	.st48{opacity:0.9513;fill:#D1D1D1;enable-background:new    ;}
+	.st49{opacity:0.9503;fill:#D0D0D0;enable-background:new    ;}
+	.st50{opacity:0.9492;fill:#CFCFCF;enable-background:new    ;}
+	.st51{opacity:0.9481;fill:#CECECE;enable-background:new    ;}
+	.st52{opacity:0.9471;fill:#CDCDCD;enable-background:new    ;}
+	.st53{opacity:0.946;fill:#CCCCCC;enable-background:new    ;}
+	.st54{opacity:0.945;fill:#CBCBCB;enable-background:new    ;}
+	.st55{opacity:0.9439;fill:#CACACA;enable-background:new    ;}
+	.st56{opacity:0.9429;fill:#C9C9C9;enable-background:new    ;}
+	.st57{opacity:0.9418;fill:#C8C8C8;enable-background:new    ;}
+	.st58{opacity:0.9407;fill:#C7C7C7;enable-background:new    ;}
+	.st59{opacity:0.9397;fill:#C6C6C6;enable-background:new    ;}
+	.st60{opacity:0.9386;fill:#C5C5C5;enable-background:new    ;}
+	.st61{opacity:0.9376;fill:#C4C4C4;enable-background:new    ;}
+	.st62{opacity:0.9365;fill:#C3C3C3;enable-background:new    ;}
+	.st63{opacity:0.9354;fill:#C2C2C2;enable-background:new    ;}
+	.st64{opacity:0.9344;fill:#C1C1C1;enable-background:new    ;}
+	.st65{opacity:0.9333;fill:#C0C0C0;enable-background:new    ;}
+	.st66{opacity:0.9323;fill:#BFBFBF;enable-background:new    ;}
+	.st67{opacity:0.9312;fill:#BEBEBE;enable-background:new    ;}
+	.st68{opacity:0.9302;fill:#BDBDBD;enable-background:new    ;}
+	.st69{opacity:0.9291;fill:#BCBCBC;enable-background:new    ;}
+	.st70{opacity:0.928;fill:#BBBBBB;enable-background:new    ;}
+	.st71{opacity:0.927;fill:#BABABA;enable-background:new    ;}
+	.st72{opacity:0.9259;fill:#B9B9B9;enable-background:new    ;}
+	.st73{opacity:0.9249;fill:#B8B8B8;enable-background:new    ;}
+	.st74{opacity:0.9238;fill:#B7B7B7;enable-background:new    ;}
+	.st75{opacity:0.9228;fill:#B6B6B6;enable-background:new    ;}
+	.st76{opacity:0.9217;fill:#B5B5B5;enable-background:new    ;}
+	.st77{opacity:0.9206;fill:#B4B4B4;enable-background:new    ;}
+	.st78{opacity:0.9196;fill:#B3B3B3;enable-background:new    ;}
+	.st79{opacity:0.9185;fill:#B2B2B2;enable-background:new    ;}
+	.st80{opacity:0.9175;fill:#B1B1B1;enable-background:new    ;}
+	.st81{opacity:0.9164;fill:#B0B0B0;enable-background:new    ;}
+	.st82{opacity:0.9153;fill:#AFAFAF;enable-background:new    ;}
+	.st83{opacity:0.9143;fill:#AEAEAE;enable-background:new    ;}
+	.st84{opacity:0.9132;fill:#ADADAD;enable-background:new    ;}
+	.st85{opacity:0.9122;fill:#ACACAC;enable-background:new    ;}
+	.st86{opacity:0.9111;fill:#ABABAB;enable-background:new    ;}
+	.st87{opacity:0.9101;fill:#AAAAAA;enable-background:new    ;}
+	.st88{opacity:0.909;fill:#A9A9A9;enable-background:new    ;}
+	.st89{opacity:0.9079;fill:#A8A8A8;enable-background:new    ;}
+	.st90{opacity:0.9069;fill:#A7A7A7;enable-background:new    ;}
+	.st91{opacity:0.9058;fill:#A6A6A6;enable-background:new    ;}
+	.st92{opacity:0.9048;fill:#A5A5A5;enable-background:new    ;}
+	.st93{opacity:0.9037;fill:#A4A4A4;enable-background:new    ;}
+	.st94{opacity:0.9026;fill:#A3A3A3;enable-background:new    ;}
+	.st95{opacity:0.9016;fill:#A2A2A2;enable-background:new    ;}
+	.st96{opacity:0.9005;fill:#A1A1A1;enable-background:new    ;}
+	.st97{opacity:0.8995;fill:#A0A0A0;enable-background:new    ;}
+	.st98{opacity:0.8984;fill:#9F9F9F;enable-background:new    ;}
+	.st99{opacity:0.8974;fill:#9E9E9E;enable-background:new    ;}
+	.st100{opacity:0.8963;fill:#9D9D9D;enable-background:new    ;}
+	.st101{opacity:0.8952;fill:#9C9C9C;enable-background:new    ;}
+	.st102{opacity:0.8942;fill:#9B9B9B;enable-background:new    ;}
+	.st103{opacity:0.8931;fill:#9A9A9A;enable-background:new    ;}
+	.st104{opacity:0.8921;fill:#999999;enable-background:new    ;}
+	.st105{opacity:0.891;fill:#989898;enable-background:new    ;}
+	.st106{opacity:0.8899;fill:#979797;enable-background:new    ;}
+	.st107{opacity:0.8889;fill:#969696;enable-background:new    ;}
+	.st108{opacity:0.8878;fill:#959595;enable-background:new    ;}
+	.st109{opacity:0.8868;fill:#949494;enable-background:new    ;}
+	.st110{opacity:0.8857;fill:#939393;enable-background:new    ;}
+	.st111{opacity:0.8847;fill:#929292;enable-background:new    ;}
+	.st112{opacity:0.8836;fill:#919191;enable-background:new    ;}
+	.st113{opacity:0.8825;fill:#909090;enable-background:new    ;}
+	.st114{opacity:0.8815;fill:#8F8F8F;enable-background:new    ;}
+	.st115{opacity:0.8804;fill:#8E8E8E;enable-background:new    ;}
+	.st116{opacity:0.8794;fill:#8D8D8D;enable-background:new    ;}
+	.st117{opacity:0.8783;fill:#8C8C8C;enable-background:new    ;}
+	.st118{opacity:0.8772;fill:#8B8B8B;enable-background:new    ;}
+	.st119{opacity:0.8762;fill:#8A8A8A;enable-background:new    ;}
+	.st120{opacity:0.8751;fill:#898989;enable-background:new    ;}
+	.st121{opacity:0.8741;fill:#888888;enable-background:new    ;}
+	.st122{opacity:0.873;fill:#878787;enable-background:new    ;}
+	.st123{opacity:0.872;fill:#868686;enable-background:new    ;}
+	.st124{opacity:0.8709;fill:#858585;enable-background:new    ;}
+	.st125{opacity:0.8698;fill:#848484;enable-background:new    ;}
+	.st126{opacity:0.8688;fill:#838383;enable-background:new    ;}
+	.st127{opacity:0.8677;fill:#828282;enable-background:new    ;}
+	.st128{opacity:0.8667;fill:#818181;enable-background:new    ;}
+	.st129{opacity:0.8656;fill:#808080;enable-background:new    ;}
+	.st130{opacity:0.8645;fill:#7F7F7F;enable-background:new    ;}
+	.st131{opacity:0.8635;fill:#7E7E7E;enable-background:new    ;}
+	.st132{opacity:0.8624;fill:#7D7D7D;enable-background:new    ;}
+	.st133{opacity:0.8614;fill:#7C7C7C;enable-background:new    ;}
+	.st134{opacity:0.8603;fill:#7B7B7B;enable-background:new    ;}
+	.st135{opacity:0.8593;fill:#7A7A7A;enable-background:new    ;}
+	.st136{opacity:0.8582;fill:#797979;enable-background:new    ;}
+	.st137{opacity:0.8571;fill:#787878;enable-background:new    ;}
+	.st138{opacity:0.8561;fill:#777777;enable-background:new    ;}
+	.st139{opacity:0.855;fill:#767676;enable-background:new    ;}
+	.st140{opacity:0.854;fill:#757575;enable-background:new    ;}
+	.st141{opacity:0.8529;fill:#747474;enable-background:new    ;}
+	.st142{opacity:0.8519;fill:#737373;enable-background:new    ;}
+	.st143{opacity:0.8508;fill:#727272;enable-background:new    ;}
+	.st144{opacity:0.8497;fill:#717171;enable-background:new    ;}
+	.st145{opacity:0.8487;fill:#707070;enable-background:new    ;}
+	.st146{opacity:0.8476;fill:#6F6F6F;enable-background:new    ;}
+	.st147{opacity:0.8466;fill:#6E6E6E;enable-background:new    ;}
+	.st148{opacity:0.8455;fill:#6D6D6D;enable-background:new    ;}
+	.st149{opacity:0.8444;fill:#6C6C6C;enable-background:new    ;}
+	.st150{opacity:0.8434;fill:#6B6B6B;enable-background:new    ;}
+	.st151{opacity:0.8423;fill:#6A6A6A;enable-background:new    ;}
+	.st152{opacity:0.8413;fill:#696969;enable-background:new    ;}
+	.st153{opacity:0.8402;fill:#686868;enable-background:new    ;}
+	.st154{opacity:0.8392;fill:#676767;enable-background:new    ;}
+	.st155{opacity:0.8381;fill:#666666;enable-background:new    ;}
+	.st156{opacity:0.837;fill:#656565;enable-background:new    ;}
+	.st157{opacity:0.836;fill:#646464;enable-background:new    ;}
+	.st158{opacity:0.8349;fill:#636363;enable-background:new    ;}
+	.st159{opacity:0.8339;fill:#626262;enable-background:new    ;}
+	.st160{opacity:0.8328;fill:#616161;enable-background:new    ;}
+	.st161{opacity:0.8317;fill:#606060;enable-background:new    ;}
+	.st162{opacity:0.8307;fill:#5F5F5F;enable-background:new    ;}
+	.st163{opacity:0.8296;fill:#5E5E5E;enable-background:new    ;}
+	.st164{opacity:0.8286;fill:#5D5D5D;enable-background:new    ;}
+	.st165{opacity:0.8275;fill:#5C5C5C;enable-background:new    ;}
+	.st166{opacity:0.8265;fill:#5B5B5B;enable-background:new    ;}
+	.st167{opacity:0.8254;fill:#5A5A5A;enable-background:new    ;}
+	.st168{opacity:0.8243;fill:#595959;enable-background:new    ;}
+	.st169{opacity:0.8233;fill:#585858;enable-background:new    ;}
+	.st170{opacity:0.8222;fill:#575757;enable-background:new    ;}
+	.st171{opacity:0.8212;fill:#565656;enable-background:new    ;}
+	.st172{opacity:0.8201;fill:#555555;enable-background:new    ;}
+	.st173{opacity:0.819;fill:#545454;enable-background:new    ;}
+	.st174{opacity:0.818;fill:#535353;enable-background:new    ;}
+	.st175{opacity:0.8169;fill:#525252;enable-background:new    ;}
+	.st176{opacity:0.8159;fill:#515151;enable-background:new    ;}
+	.st177{opacity:0.8148;fill:#505050;enable-background:new    ;}
+	.st178{opacity:0.8138;fill:#4F4F4F;enable-background:new    ;}
+	.st179{opacity:0.8127;fill:#4E4E4E;enable-background:new    ;}
+	.st180{opacity:0.8116;fill:#4D4D4D;enable-background:new    ;}
+	.st181{opacity:0.8106;fill:#4C4C4C;enable-background:new    ;}
+	.st182{opacity:0.8095;fill:#4B4B4B;enable-background:new    ;}
+	.st183{opacity:0.8085;fill:#4A4A4A;enable-background:new    ;}
+	.st184{opacity:0.8074;fill:#494949;enable-background:new    ;}
+	.st185{opacity:0.8063;fill:#484848;enable-background:new    ;}
+	.st186{opacity:0.8053;fill:#474747;enable-background:new    ;}
+	.st187{opacity:0.8042;fill:#464646;enable-background:new    ;}
+	.st188{opacity:0.8032;fill:#454545;enable-background:new    ;}
+	.st189{opacity:0.8021;fill:#444444;enable-background:new    ;}
+	.st190{opacity:0.8011;fill:#434343;enable-background:new    ;}
+	.st191{opacity:0.8;fill:#424242;enable-background:new    ;}
+	.st192{fill:#424242;}
+	.st193{fill:url(#SVGID_2_);}
+	.st194{opacity:0.12;enable-background:new    ;}
+	.st195{fill:#5F2900;}
+	.st196{opacity:0.2;enable-background:new    ;}
+	.st197{fill:#E88E47;}
+	.st198{opacity:0.35;enable-background:new    ;}
+	.st199{fill:url(#SVGID_3_);}
+	.st200{opacity:0.1;enable-background:new    ;}
+	.st201{fill:#361700;}
+	.st202{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st203{fill:#450800;}
+	.st204{fill:#B20A00;}
+	.st205{fill:#C4C4C4;}
+	.st206{opacity:0.36;enable-background:new    ;}
+	.st207{fill:#873A00;}
+	.st208{fill:#FFA81F;}
+	.st209{fill:#F69E63;}
+	.st210{fill:#707070;}
+	.st211{fill:#9AD5F0;}
+	.st212{fill:url(#SVGID_4_);}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="80.92" y1="199.955" x2="107.88" y2="199.955" gradientTransform="matrix(1 0 0 -1 0 340)">
+		<stop  offset="7.690000e-002" style="stop-color:#BDBDBD"/>
+		<stop  offset="0.1295" style="stop-color:#C2C2C2"/>
+		<stop  offset="0.3696" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.5275" style="stop-color:#DFDFDF"/>
+		<stop  offset="1" style="stop-color:#CDCDCD"/>
+	</linearGradient>
+	<polygon class="st0" points="103.9,121.7 80.9,143.3 88.6,158.4 107.9,130.4 	"/>
+	<g class="st1">
+		<ellipse class="st2" cx="153.1" cy="316.3" rx="84" ry="8.7"/>
+		<ellipse class="st3" cx="153.1" cy="316.3" rx="83.8" ry="8.7"/>
+		<ellipse class="st4" cx="153.1" cy="316.3" rx="83.6" ry="8.7"/>
+		<ellipse class="st5" cx="153.1" cy="316.3" rx="83.4" ry="8.6"/>
+		<ellipse class="st6" cx="153.1" cy="316.3" rx="83.3" ry="8.6"/>
+		<ellipse class="st7" cx="153.1" cy="316.3" rx="83.1" ry="8.6"/>
+		<ellipse class="st8" cx="153.1" cy="316.3" rx="82.9" ry="8.6"/>
+		<ellipse class="st9" cx="153.1" cy="316.3" rx="82.7" ry="8.6"/>
+		<ellipse class="st10" cx="153.1" cy="316.3" rx="82.5" ry="8.5"/>
+		<ellipse class="st11" cx="153.1" cy="316.3" rx="82.3" ry="8.5"/>
+		<ellipse class="st12" cx="153.1" cy="316.3" rx="82.1" ry="8.5"/>
+		<ellipse class="st13" cx="153.1" cy="316.3" rx="81.9" ry="8.5"/>
+		<ellipse class="st14" cx="153.1" cy="316.3" rx="81.7" ry="8.5"/>
+		<ellipse class="st15" cx="153.1" cy="316.3" rx="81.5" ry="8.5"/>
+		<ellipse class="st16" cx="153.1" cy="316.3" rx="81.3" ry="8.4"/>
+		<ellipse class="st17" cx="153.1" cy="316.3" rx="81.2" ry="8.4"/>
+		<ellipse class="st18" cx="153.1" cy="316.3" rx="81" ry="8.4"/>
+		<ellipse class="st19" cx="153.1" cy="316.3" rx="80.8" ry="8.4"/>
+		<ellipse class="st20" cx="153.1" cy="316.3" rx="80.6" ry="8.4"/>
+		<ellipse class="st21" cx="153.1" cy="316.3" rx="80.4" ry="8.3"/>
+		<ellipse class="st22" cx="153.1" cy="316.3" rx="80.2" ry="8.3"/>
+		<ellipse class="st23" cx="153.1" cy="316.3" rx="80" ry="8.3"/>
+		<ellipse class="st24" cx="153.1" cy="316.3" rx="79.8" ry="8.3"/>
+		<ellipse class="st25" cx="153.1" cy="316.3" rx="79.6" ry="8.3"/>
+		<ellipse class="st26" cx="153.1" cy="316.3" rx="79.4" ry="8.2"/>
+		<ellipse class="st27" cx="153.1" cy="316.3" rx="79.2" ry="8.2"/>
+		<ellipse class="st28" cx="153.1" cy="316.3" rx="79.1" ry="8.2"/>
+		<ellipse class="st29" cx="153.1" cy="316.3" rx="78.9" ry="8.2"/>
+		<ellipse class="st30" cx="153.1" cy="316.3" rx="78.7" ry="8.1"/>
+		<ellipse class="st31" cx="153.1" cy="316.3" rx="78.5" ry="8.1"/>
+		<ellipse class="st32" cx="153.1" cy="316.3" rx="78.3" ry="8.1"/>
+		<ellipse class="st33" cx="153.1" cy="316.3" rx="78.1" ry="8.1"/>
+		<ellipse class="st34" cx="153.1" cy="316.3" rx="77.9" ry="8.1"/>
+		<ellipse class="st35" cx="153.1" cy="316.3" rx="77.7" ry="8"/>
+		<ellipse class="st36" cx="153.1" cy="316.3" rx="77.5" ry="8"/>
+		<ellipse class="st37" cx="153.1" cy="316.3" rx="77.3" ry="8"/>
+		<ellipse class="st38" cx="153.1" cy="316.3" rx="77.1" ry="8"/>
+		<ellipse class="st39" cx="153.1" cy="316.3" rx="76.9" ry="8"/>
+		<ellipse class="st40" cx="153.1" cy="316.3" rx="76.8" ry="8"/>
+		<ellipse class="st41" cx="153.1" cy="316.3" rx="76.6" ry="7.9"/>
+		<ellipse class="st42" cx="153.1" cy="316.3" rx="76.4" ry="7.9"/>
+		<ellipse class="st43" cx="153.1" cy="316.3" rx="76.2" ry="7.9"/>
+		<ellipse class="st44" cx="153.1" cy="316.3" rx="76" ry="7.9"/>
+		<ellipse class="st45" cx="153.1" cy="316.3" rx="75.8" ry="7.9"/>
+		<ellipse class="st46" cx="153.1" cy="316.3" rx="75.6" ry="7.8"/>
+		<ellipse class="st47" cx="153.1" cy="316.3" rx="75.4" ry="7.8"/>
+		<ellipse class="st48" cx="153.1" cy="316.3" rx="75.2" ry="7.8"/>
+		<ellipse class="st49" cx="153.1" cy="316.3" rx="75" ry="7.8"/>
+		<ellipse class="st50" cx="153.1" cy="316.3" rx="74.8" ry="7.8"/>
+		<ellipse class="st51" cx="153.1" cy="316.3" rx="74.7" ry="7.7"/>
+		<ellipse class="st52" cx="153.1" cy="316.3" rx="74.5" ry="7.7"/>
+		<ellipse class="st53" cx="153.1" cy="316.3" rx="74.3" ry="7.7"/>
+		<ellipse class="st54" cx="153.1" cy="316.3" rx="74.1" ry="7.7"/>
+		<ellipse class="st55" cx="153.1" cy="316.3" rx="73.9" ry="7.7"/>
+		<ellipse class="st56" cx="153.1" cy="316.3" rx="73.7" ry="7.6"/>
+		<ellipse class="st57" cx="153.1" cy="316.3" rx="73.5" ry="7.6"/>
+		<ellipse class="st58" cx="153.1" cy="316.3" rx="73.3" ry="7.6"/>
+		<ellipse class="st59" cx="153.1" cy="316.3" rx="73.1" ry="7.6"/>
+		<path class="st60" d="M226,316.3c0,4.2-32.7,7.6-72.9,7.6s-72.9-3.4-72.9-7.6s32.7-7.6,72.9-7.6C193.4,308.7,226,312.1,226,316.3z
+			"/>
+		<ellipse class="st61" cx="153.1" cy="316.3" rx="72.7" ry="7.5"/>
+		<ellipse class="st62" cx="153.1" cy="316.3" rx="72.6" ry="7.5"/>
+		<ellipse class="st63" cx="153.1" cy="316.3" rx="72.4" ry="7.5"/>
+		<ellipse class="st64" cx="153.1" cy="316.3" rx="72.2" ry="7.5"/>
+		<ellipse class="st65" cx="153.1" cy="316.3" rx="72" ry="7.5"/>
+		<ellipse class="st66" cx="153.1" cy="316.3" rx="71.8" ry="7.4"/>
+		<ellipse class="st67" cx="153.1" cy="316.3" rx="71.6" ry="7.4"/>
+		<ellipse class="st68" cx="153.1" cy="316.3" rx="71.4" ry="7.4"/>
+		<ellipse class="st69" cx="153.1" cy="316.3" rx="71.2" ry="7.4"/>
+		<ellipse class="st70" cx="153.1" cy="316.3" rx="71" ry="7.4"/>
+		<ellipse class="st71" cx="153.1" cy="316.3" rx="70.8" ry="7.3"/>
+		<ellipse class="st72" cx="153.1" cy="316.3" rx="70.6" ry="7.3"/>
+		<ellipse class="st73" cx="153.1" cy="316.3" rx="70.4" ry="7.3"/>
+		<ellipse class="st74" cx="153.1" cy="316.3" rx="70.3" ry="7.3"/>
+		<ellipse class="st75" cx="153.1" cy="316.3" rx="70.1" ry="7.3"/>
+		<ellipse class="st76" cx="153.1" cy="316.3" rx="69.9" ry="7.2"/>
+		<ellipse class="st77" cx="153.1" cy="316.3" rx="69.7" ry="7.2"/>
+		<ellipse class="st78" cx="153.1" cy="316.3" rx="69.5" ry="7.2"/>
+		<ellipse class="st79" cx="153.1" cy="316.3" rx="69.3" ry="7.2"/>
+		<ellipse class="st80" cx="153.1" cy="316.3" rx="69.1" ry="7.2"/>
+		<path class="st81" d="M222,316.3c0,4-30.9,7.1-68.9,7.1s-68.9-3.2-68.9-7.1c0-4,30.8-7.1,68.9-7.1
+			C191.2,309.1,222,312.3,222,316.3z"/>
+		<ellipse class="st82" cx="153.1" cy="316.3" rx="68.7" ry="7.1"/>
+		<ellipse class="st83" cx="153.1" cy="316.3" rx="68.5" ry="7.1"/>
+		<ellipse class="st84" cx="153.1" cy="316.3" rx="68.3" ry="7.1"/>
+		<path class="st85" d="M221.3,316.3c0,3.9-30.5,7.1-68.2,7.1S85,320.1,85,316.3s30.5-7.1,68.2-7.1S221.3,312.3,221.3,316.3z"/>
+		<path class="st86" d="M221.1,316.3c0,3.9-30.4,7-68,7c-37.5,0-68-3.1-68-7s30.4-7,68-7S221.1,312.4,221.1,316.3z"/>
+		<ellipse class="st87" cx="153.1" cy="316.3" rx="67.8" ry="7"/>
+		<ellipse class="st88" cx="153.1" cy="316.3" rx="67.6" ry="7"/>
+		<ellipse class="st89" cx="153.1" cy="316.3" rx="67.4" ry="7"/>
+		<ellipse class="st90" cx="153.1" cy="316.3" rx="67.2" ry="7"/>
+		<ellipse class="st91" cx="153.1" cy="316.3" rx="67" ry="6.9"/>
+		<ellipse class="st92" cx="153.1" cy="316.3" rx="66.8" ry="6.9"/>
+		<ellipse class="st93" cx="153.1" cy="316.3" rx="66.6" ry="6.9"/>
+		<ellipse class="st94" cx="153.1" cy="316.3" rx="66.4" ry="6.9"/>
+		<path class="st95" d="M219.4,316.3c0,3.8-29.7,6.9-66.2,6.9c-36.6,0-66.2-3.1-66.2-6.9c0-3.8,29.7-6.9,66.2-6.9
+			S219.4,312.5,219.4,316.3z"/>
+		<path class="st96" d="M219.2,316.3c0,3.8-29.6,6.8-66.1,6.8s-66.1-3.1-66.1-6.8s29.6-6.9,66.1-6.9S219.2,312.5,219.2,316.3z"/>
+		<ellipse class="st97" cx="153.1" cy="316.3" rx="65.9" ry="6.8"/>
+		<ellipse class="st98" cx="153.1" cy="316.3" rx="65.7" ry="6.8"/>
+		<ellipse class="st99" cx="153.1" cy="316.3" rx="65.5" ry="6.8"/>
+		<ellipse class="st100" cx="153.1" cy="316.3" rx="65.3" ry="6.8"/>
+		<ellipse class="st101" cx="153.1" cy="316.3" rx="65.1" ry="6.8"/>
+		<ellipse class="st102" cx="153.1" cy="316.3" rx="64.9" ry="6.7"/>
+		<ellipse class="st103" cx="153.1" cy="316.3" rx="64.7" ry="6.7"/>
+		<ellipse class="st104" cx="153.1" cy="316.3" rx="64.5" ry="6.7"/>
+		<ellipse class="st105" cx="153.1" cy="316.3" rx="64.3" ry="6.7"/>
+		<path class="st106" d="M217.3,316.3c0,3.7-28.7,6.6-64.1,6.6s-64.1-3-64.1-6.6c0-3.7,28.7-6.6,64.1-6.6
+			C188.5,309.6,217.3,312.6,217.3,316.3z"/>
+		<ellipse class="st107" cx="153.1" cy="316.3" rx="63.9" ry="6.6"/>
+		<ellipse class="st108" cx="153.1" cy="316.3" rx="63.8" ry="6.6"/>
+		<path class="st109" d="M216.7,316.3c0,3.6-28.5,6.6-63.6,6.6s-63.6-3-63.6-6.6c0-3.6,28.5-6.6,63.6-6.6
+			C188.2,309.7,216.7,312.6,216.7,316.3z"/>
+		<path class="st110" d="M216.5,316.3c0,3.6-28.4,6.6-63.4,6.6c-35,0-63.4-2.9-63.4-6.6s28.4-6.6,63.4-6.6
+			C188.1,309.7,216.5,312.6,216.5,316.3z"/>
+		<path class="st111" d="M216.3,316.3c0,3.6-28.3,6.5-63.2,6.5c-34.9,0-63.2-2.9-63.2-6.5s28.3-6.5,63.2-6.5
+			S216.3,312.6,216.3,316.3z"/>
+		<ellipse class="st112" cx="153.1" cy="316.3" rx="63" ry="6.5"/>
+		<ellipse class="st113" cx="153.1" cy="316.3" rx="62.8" ry="6.5"/>
+		<ellipse class="st114" cx="153.1" cy="316.3" rx="62.6" ry="6.5"/>
+		<ellipse class="st115" cx="153.1" cy="316.3" rx="62.4" ry="6.5"/>
+		<path class="st116" d="M215.3,316.3c0,3.6-27.9,6.5-62.2,6.5s-62.2-2.9-62.2-6.5s27.9-6.5,62.2-6.5
+			C187.5,309.8,215.3,312.7,215.3,316.3z"/>
+		<ellipse class="st117" cx="153.1" cy="316.3" rx="62" ry="6.4"/>
+		<ellipse class="st118" cx="153.1" cy="316.3" rx="61.8" ry="6.4"/>
+		<ellipse class="st119" cx="153.1" cy="316.3" rx="61.7" ry="6.4"/>
+		<path class="st120" d="M214.6,316.3c0,3.5-27.5,6.4-61.5,6.4c-33.9,0-61.5-2.9-61.5-6.4s27.5-6.4,61.5-6.4
+			C187.1,309.9,214.6,312.7,214.6,316.3z"/>
+		<path class="st121" d="M214.4,316.3c0,3.5-27.4,6.4-61.3,6.4s-61.3-2.8-61.3-6.4s27.4-6.4,61.3-6.4
+			C186.9,309.9,214.4,312.7,214.4,316.3z"/>
+		<path class="st122" d="M214.2,316.3c0,3.5-27.4,6.3-61.1,6.3c-33.7,0-61.1-2.8-61.1-6.3s27.3-6.3,61.1-6.3
+			C186.8,309.9,214.2,312.8,214.2,316.3z"/>
+		<ellipse class="st123" cx="153.1" cy="316.3" rx="60.9" ry="6.3"/>
+		<ellipse class="st124" cx="153.1" cy="316.3" rx="60.7" ry="6.3"/>
+		<ellipse class="st125" cx="153.1" cy="316.3" rx="60.5" ry="6.3"/>
+		<ellipse class="st126" cx="153.1" cy="316.3" rx="60.3" ry="6.3"/>
+		<path class="st127" d="M213.2,316.3c0,3.4-26.9,6.2-60.1,6.2S93,319.7,93,316.3s26.9-6.2,60.1-6.2
+			C186.3,310,213.2,312.8,213.2,316.3z"/>
+		<ellipse class="st128" cx="153.1" cy="316.3" rx="59.9" ry="6.2"/>
+		<ellipse class="st129" cx="153.1" cy="316.3" rx="59.7" ry="6.2"/>
+		<path class="st130" d="M212.7,316.3c0,3.4-26.7,6.2-59.6,6.2s-59.6-2.8-59.6-6.2s26.7-6.2,59.6-6.2
+			C186,310.1,212.7,312.8,212.7,316.3z"/>
+		<path class="st131" d="M212.5,316.3c0,3.4-26.6,6.1-59.4,6.1c-32.8,0-59.4-2.8-59.4-6.1s26.6-6.1,59.4-6.1
+			C185.9,310.1,212.5,312.9,212.5,316.3z"/>
+		<path class="st132" d="M212.3,316.3c0,3.4-26.5,6.1-59.2,6.1s-59.2-2.7-59.2-6.1s26.5-6.1,59.2-6.1
+			C185.8,310.1,212.3,312.9,212.3,316.3z"/>
+		<ellipse class="st133" cx="153.1" cy="316.3" rx="59" ry="6.1"/>
+		<path class="st134" d="M211.9,316.3c0,3.4-26.3,6.1-58.8,6.1s-58.8-2.7-58.8-6.1c0-3.4,26.3-6.1,58.8-6.1
+			C185.6,310.1,211.9,312.9,211.9,316.3z"/>
+		<path class="st135" d="M211.7,316.3c0,3.4-26.2,6.1-58.6,6.1s-58.6-2.7-58.6-6.1c0-3.4,26.2-6.1,58.6-6.1S211.7,312.9,211.7,316.3
+			z"/>
+		<path class="st136" d="M211.5,316.3c0,3.3-26.1,6-58.4,6s-58.4-2.7-58.4-6c0-3.4,26.2-6,58.4-6
+			C185.4,310.2,211.5,312.9,211.5,316.3z"/>
+		<path class="st137" d="M211.3,316.3c0,3.3-26.1,6-58.2,6s-58.2-2.7-58.2-6s26.1-6,58.2-6S211.3,312.9,211.3,316.3z"/>
+		<ellipse class="st138" cx="153.1" cy="316.3" rx="58" ry="6"/>
+		<ellipse class="st139" cx="153.1" cy="316.3" rx="57.8" ry="6"/>
+		<ellipse class="st140" cx="153.1" cy="316.3" rx="57.6" ry="6"/>
+		<path class="st141" d="M210.6,316.3c0,3.3-25.7,6-57.4,6s-57.4-2.7-57.4-6s25.7-6,57.4-6S210.6,313,210.6,316.3z"/>
+		<path class="st142" d="M210.4,316.3c0,3.3-25.6,5.9-57.3,5.9s-57.3-2.7-57.3-5.9c0-3.3,25.6-5.9,57.3-5.9
+			C184.7,310.3,210.4,313,210.4,316.3z"/>
+		<ellipse class="st143" cx="153.1" cy="316.3" rx="57.1" ry="5.9"/>
+		<path class="st144" d="M210,316.3c0,3.3-25.5,5.9-56.9,5.9s-56.9-2.6-56.9-5.9c0-3.3,25.5-5.9,56.9-5.9
+			C184.5,310.4,210,313,210,316.3z"/>
+		<path class="st145" d="M209.8,316.3c0,3.3-25.4,5.9-56.7,5.9s-56.7-2.6-56.7-5.9c0-3.3,25.4-5.9,56.7-5.9
+			C184.4,310.4,209.8,313,209.8,316.3z"/>
+		<path class="st146" d="M209.6,316.3c0,3.2-25.3,5.9-56.5,5.9s-56.5-2.6-56.5-5.9c0-3.2,25.3-5.9,56.5-5.9S209.6,313,209.6,316.3z"
+			/>
+		<path class="st147" d="M209.4,316.3c0,3.2-25.2,5.8-56.3,5.8c-31.1,0-56.3-2.6-56.3-5.8c0-3.2,25.2-5.8,56.3-5.8
+			C184.2,310.4,209.4,313,209.4,316.3z"/>
+		<ellipse class="st148" cx="153.1" cy="316.3" rx="56.1" ry="5.8"/>
+		<ellipse class="st149" cx="153.1" cy="316.3" rx="55.9" ry="5.8"/>
+		<ellipse class="st150" cx="153.1" cy="316.3" rx="55.7" ry="5.8"/>
+		<path class="st151" d="M208.6,316.3c0,3.2-24.9,5.8-55.5,5.8s-55.5-2.6-55.5-5.8c0-3.2,24.9-5.8,55.5-5.8
+			C183.8,310.5,208.6,313.1,208.6,316.3z"/>
+		<path class="st152" d="M208.5,316.3c0,3.2-24.8,5.7-55.3,5.7s-55.3-2.6-55.3-5.7c0-3.2,24.8-5.7,55.3-5.7
+			C183.7,310.5,208.5,313.1,208.5,316.3z"/>
+		<ellipse class="st153" cx="153.1" cy="316.3" rx="55.2" ry="5.7"/>
+		<ellipse class="st154" cx="153.1" cy="316.3" rx="55" ry="5.7"/>
+		<path class="st155" d="M207.9,316.3c0,3.1-24.5,5.7-54.8,5.7s-54.8-2.5-54.8-5.7c0-3.1,24.5-5.7,54.8-5.7S207.9,313.1,207.9,316.3
+			z"/>
+		<path class="st156" d="M207.7,316.3c0,3.1-24.4,5.7-54.6,5.7c-30.2,0-54.6-2.5-54.6-5.7s24.4-5.7,54.6-5.7
+			C183.3,310.6,207.7,313.1,207.7,316.3z"/>
+		<path class="st157" d="M207.5,316.3c0,3.1-24.4,5.6-54.4,5.6s-54.4-2.5-54.4-5.6c0-3.1,24.3-5.6,54.4-5.6S207.5,313.1,207.5,316.3
+			z"/>
+		<ellipse class="st158" cx="153.1" cy="316.3" rx="54.2" ry="5.6"/>
+		<path class="st159" d="M207.1,316.3c0,3.1-24.2,5.6-54,5.6s-54-2.5-54-5.6c0-3.1,24.2-5.6,54-5.6S207.1,313.1,207.1,316.3z"/>
+		<path class="st160" d="M206.9,316.3c0,3.1-24.1,5.6-53.8,5.6s-53.8-2.5-53.8-5.6s24.1-5.6,53.8-5.6
+			C182.8,310.7,206.9,313.2,206.9,316.3z"/>
+		<path class="st161" d="M206.7,316.3c0,3.1-24,5.6-53.6,5.6s-53.6-2.5-53.6-5.6s24-5.6,53.6-5.6
+			C182.7,310.7,206.7,313.2,206.7,316.3z"/>
+		<path class="st162" d="M206.5,316.3c0,3.1-23.9,5.5-53.4,5.5s-53.4-2.5-53.4-5.5s23.9-5.5,53.4-5.5
+			C182.6,310.7,206.5,313.2,206.5,316.3z"/>
+		<ellipse class="st163" cx="153.1" cy="316.3" rx="53.2" ry="5.5"/>
+		<ellipse class="st164" cx="153.1" cy="316.3" rx="53.1" ry="5.5"/>
+		<path class="st165" d="M206,316.3c0,3-23.7,5.5-52.9,5.5c-29.2,0-52.9-2.5-52.9-5.5s23.7-5.5,52.9-5.5
+			C182.3,310.8,206,313.2,206,316.3z"/>
+		<path class="st166" d="M205.8,316.3c0,3-23.6,5.5-52.7,5.5s-52.7-2.4-52.7-5.5s23.6-5.5,52.7-5.5S205.8,313.2,205.8,316.3z"/>
+		<path class="st167" d="M205.6,316.3c0,3-23.5,5.4-52.5,5.4c-29,0-52.5-2.4-52.5-5.4s23.5-5.4,52.5-5.4
+			C182.1,310.8,205.6,313.2,205.6,316.3z"/>
+		<path class="st168" d="M205.4,316.3c0,3-23.4,5.4-52.3,5.4s-52.3-2.4-52.3-5.4s23.4-5.4,52.3-5.4S205.4,313.3,205.4,316.3z"/>
+		<path class="st169" d="M205.2,316.3c0,3-23.3,5.4-52.1,5.4s-52.1-2.4-52.1-5.4c0-3,23.3-5.4,52.1-5.4
+			C181.9,310.8,205.2,313.3,205.2,316.3z"/>
+		<path class="st170" d="M205,316.3c0,3-23.2,5.4-51.9,5.4s-51.9-2.4-51.9-5.4s23.2-5.4,51.9-5.4S205,313.3,205,316.3z"/>
+		<path class="st171" d="M204.8,316.3c0,3-23.2,5.4-51.7,5.4s-51.7-2.4-51.7-5.4s23.2-5.4,51.7-5.4
+			C181.7,310.9,204.8,313.3,204.8,316.3z"/>
+		<path class="st172" d="M204.6,316.3c0,3-23.1,5.3-51.5,5.3s-51.5-2.4-51.5-5.3c0-3,23.1-5.3,51.5-5.3
+			C181.6,310.9,204.6,313.3,204.6,316.3z"/>
+		<path class="st173" d="M204.4,316.3c0,2.9-23,5.3-51.3,5.3s-51.3-2.4-51.3-5.3s23-5.3,51.3-5.3
+			C181.5,310.9,204.4,313.3,204.4,316.3z"/>
+		<ellipse class="st174" cx="153.1" cy="316.3" rx="51.1" ry="5.3"/>
+		<ellipse class="st175" cx="153.1" cy="316.3" rx="50.9" ry="5.3"/>
+		<path class="st176" d="M203.9,316.3c0,2.9-22.7,5.3-50.8,5.3c-28,0-50.8-2.4-50.8-5.3s22.7-5.3,50.8-5.3
+			C181.1,311,203.9,313.3,203.9,316.3z"/>
+		<path class="st177" d="M203.7,316.3c0,2.9-22.6,5.2-50.6,5.2s-50.6-2.3-50.6-5.2s22.6-5.2,50.6-5.2
+			C181,311,203.7,313.4,203.7,316.3z"/>
+		<path class="st178" d="M203.5,316.3c0,2.9-22.6,5.2-50.4,5.2s-50.4-2.3-50.4-5.2c0-2.9,22.6-5.2,50.4-5.2
+			C180.9,311,203.5,313.4,203.5,316.3z"/>
+		<path class="st179" d="M203.3,316.3c0,2.9-22.5,5.2-50.2,5.2s-50.2-2.3-50.2-5.2c0-2.9,22.5-5.2,50.2-5.2
+			C180.8,311,203.3,313.4,203.3,316.3z"/>
+		<path class="st180" d="M203.1,316.3c0,2.9-22.4,5.2-50,5.2s-50-2.3-50-5.2s22.4-5.2,50-5.2C180.7,311.1,203.1,313.4,203.1,316.3z"
+			/>
+		<path class="st181" d="M202.9,316.3c0,2.9-22.3,5.2-49.8,5.2c-27.5,0-49.8-2.3-49.8-5.2s22.3-5.2,49.8-5.2
+			C180.6,311.1,202.9,313.4,202.9,316.3z"/>
+		<path class="st182" d="M202.7,316.3c0,2.8-22.2,5.1-49.6,5.1s-49.6-2.3-49.6-5.1c0-2.8,22.2-5.1,49.6-5.1
+			C180.5,311.1,202.7,313.4,202.7,316.3z"/>
+		<path class="st183" d="M202.5,316.3c0,2.8-22.1,5.1-49.4,5.1c-27.3,0-49.4-2.3-49.4-5.1s22.1-5.1,49.4-5.1
+			C180.4,311.1,202.5,313.4,202.5,316.3z"/>
+		<path class="st184" d="M202.3,316.3c0,2.8-22,5.1-49.2,5.1s-49.2-2.3-49.2-5.1s22-5.1,49.2-5.1
+			C180.3,311.1,202.3,313.4,202.3,316.3z"/>
+		<path class="st185" d="M202.1,316.3c0,2.8-22,5.1-49,5.1c-27.1,0-49-2.3-49-5.1s22-5.1,49-5.1
+			C180.2,311.2,202.1,313.4,202.1,316.3z"/>
+		<path class="st186" d="M202,316.3c0,2.8-21.9,5.1-48.8,5.1s-48.8-2.3-48.8-5.1s21.9-5.1,48.8-5.1C180.1,311.2,202,313.5,202,316.3
+			z"/>
+		<path class="st187" d="M201.8,316.3c0,2.8-21.8,5-48.7,5s-48.7-2.3-48.7-5c0-2.8,21.8-5,48.7-5C180,311.2,201.8,313.5,201.8,316.3
+			z"/>
+		<path class="st188" d="M201.6,316.3c0,2.8-21.7,5-48.5,5s-48.5-2.3-48.5-5c0-2.8,21.7-5,48.5-5
+			C179.9,311.2,201.6,313.5,201.6,316.3z"/>
+		<ellipse class="st189" cx="153.1" cy="316.3" rx="48.3" ry="5"/>
+		<path class="st190" d="M201.2,316.3c0,2.8-21.5,5-48.1,5c-26.6,0-48.1-2.2-48.1-5s21.5-5,48.1-5
+			C179.7,311.3,201.2,313.5,201.2,316.3z"/>
+		<path class="st191" d="M201,316.3c0,2.7-21.4,5-47.9,5s-47.9-2.2-47.9-5s21.4-5,47.9-5C179.6,311.3,201,313.5,201,316.3z"/>
+	</g>
+	<path class="st192" d="M127.1,226.6l14.6,75.4l-10.2-0.5l-6.3-38.4c-3.3-15.8-17.1-43-17.1-43L127.1,226.6z"/>
+	<path class="st192" d="M151.2,227.5l10.9,77.5l9.6-3.5l-5.1-38.5c-1.4-16.1,0-39.7,0-39.7L151.2,227.5z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="99.2462" y1="178.25" x2="180.9698" y2="178.25" gradientTransform="matrix(1 0 0 -1 0 340)">
+		<stop  offset="7.690000e-002" style="stop-color:#BDBDBD"/>
+		<stop  offset="0.1295" style="stop-color:#C2C2C2"/>
+		<stop  offset="0.3696" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.5275" style="stop-color:#DFDFDF"/>
+		<stop  offset="1" style="stop-color:#CDCDCD"/>
+	</linearGradient>
+	<path class="st193" d="M102.5,115.8c-1.3,13.9-3.6,80.9-3.2,81.6l72,10.4c-0.1-2.7,10.8-82.7,9.6-87.3l-37.5,10.5L102.5,115.8z"/>
+	<g>
+		<polygon class="st194" points="118.5,70.3 140.2,71.1 140.3,65.2 117.3,66 		"/>
+		<polygon class="st195" points="119.3,68.7 141,69.5 141,63.6 118,64.4 		"/>
+		<polygon class="st194" points="169.7,77.2 150.2,71 151.9,65.8 172.1,73.8 		"/>
+		<polygon class="st195" points="168.7,75.6 149.3,69.4 150.9,64.2 171.1,72.2 		"/>
+	</g>
+	<path class="st192" d="M99.3,197.4c0,0-0.2,18,5.8,23.1c6.1,5.1,40.7,18.5,60.7,4.4c4.3-3.7,6.1-12.9,5.6-18.4L99.3,197.4z"/>
+	<path class="st196" d="M135,80.4c-0.3,3.1-2.2,5.4-4.1,5.2s-3.2-2.9-2.8-5.9c0.3-3.1,2.2-5.4,4.1-5.2C134,74.7,135.3,77.3,135,80.4
+		z"/>
+	<ellipse transform="matrix(0.1092 -0.994 0.994 0.1092 56.104 226.7124)" class="st196" cx="154.5" cy="82.1" rx="5.6" ry="3.3"/>
+	<path d="M133.8,79.3c-0.3,2.6-1.5,4.5-2.7,4.4c-1.2-0.1-2-2.3-1.7-4.9c0.3-2.6,1.5-4.5,2.7-4.4C133.3,74.6,134.1,76.8,133.8,79.3z"
+		/>
+	<path d="M156.9,81.5c-0.3,2.6-1.5,4.5-2.7,4.4s-1.9-2.3-1.7-4.9c0.3-2.6,1.5-4.5,2.7-4.4S157.2,78.9,156.9,81.5z"/>
+	<path class="st195" d="M132.3,300l-15.3,4.8c0,0-12.1-1.9-14.7,4.9c-1.7,4.5-2.1,6.1-2.1,6.1c12,0,43.1-0.2,43.1-0.2
+		c0.2-3.9-1.1-14.5-1.1-14.5L132.3,300z"/>
+	<path class="st195" d="M171.5,300l15.3,4.8c0,0,12.1-1.9,14.7,4.9c1.6,4.5,2.1,6.1,2.1,6.1c-12,0-43.1-0.2-43.1-0.2
+		c-0.2-3.9,1.1-14.5,1.1-14.5L171.5,300z"/>
+	<polygon class="st197" points="158.8,201.2 163.4,214 166,219 192.3,209.6 198.5,203.9 190.9,189.8 190.9,189.8 190.9,189.8 
+		190,188.2 187.1,188.6 173.7,183.6 173.1,190.9 	"/>
+	<path class="st198" d="M190.9,189.8L190.9,189.8L190.9,189.8l-0.9-1.6l-2.9,0.4l-5.4-1.6c0.9,2.5,6.3,17,9.3,23l1.3-0.5l3.4-3.1
+		c0.9-1.1,1.7-2.2,2.5-3.2L190.9,189.8z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="7218.6333" y1="-489.6204" x2="7261.2871" y2="-489.6204" gradientTransform="matrix(-0.9846 -0.1749 0.1749 -0.9846 7408.3511 954.6876)">
+		<stop  offset="7.690000e-002" style="stop-color:#BDBDBD"/>
+		<stop  offset="0.1295" style="stop-color:#C2C2C2"/>
+		<stop  offset="0.3696" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.5275" style="stop-color:#DFDFDF"/>
+		<stop  offset="1" style="stop-color:#CDCDCD"/>
+	</linearGradient>
+	<path class="st199" d="M180.1,128.1c-0.1,1.6-0.2,4-0.5,6.9c25.9,19.1,18,34.7,3.9,50.6c0,0,7,19.1,10.1,24.6
+		C242.3,174,191.4,135.8,180.1,128.1z"/>
+	<g>
+		<path class="st200" d="M184.6,62.4c0-6.9-0.5-12.3-1.4-15.8c-4.3-0.2-8.5-0.3-12.8-0.5c-0.7,0-1.4-0.1-2.2-0.1
+			c-14.2-0.6-28.5-1.2-42.7-1.7c-1.4,0-2.7-0.1-4.1-0.2c-5.1-0.2-10.2-0.4-15.3-0.6c-0.7,3.2-1.3,8.1-1.8,14.3
+			c-0.5,6-0.8,13.1-1.2,21c2.2-2.6,3.3-9.9,3.6-11.4c1.1-5.6,2-11.3,5.8-15.8c7.8-9.1,13.3-0.9,20.3,4.2c7,5.1,15.4,8,24.1,7.7
+			c4.3-0.2,8.6-1,12.6-2.5c2.3-0.8,6.4-4,9-3.2c3.6,1.1,3.5,7.7,3.8,10.6c0.2,2-0.6,9.4,1.3,10.6c0.2,0.1,0.3,0.2,0.5,0.3
+			C184.5,73.1,184.7,67.4,184.6,62.4z"/>
+		<path class="st195" d="M190.8,56c0.1,4-0.6,8.1-1.6,12c-0.7,2.6-2.1,8.4-4.7,9.7c-1.4-2.6-0.3-5.9-0.6-8.7
+			c-0.2-2.8-0.5-6.2-1.8-8.8c-2.8-5.4-8.3-9.3-6-15.9c1.7-4.8,6.9-3.8,10.2-0.9C189.7,46.5,190.7,51.7,190.8,56z"/>
+		<path class="st201" d="M189.6,48.5c-0.7-2-1.7-3.7-3.3-5.1c-0.9-0.8-1.9-1.5-3-1.9c-3.3,2-5.8,5.9-6.9,9.7c1.4,3.1,4,5.8,5.7,9
+			c1.4,2.6,1.6,5.9,1.8,8.8c0.2,2.7-0.8,6,0.5,8.5c2.9-4.3,2.3-13,1.3-16.9c-0.7-2.7-1.9-4.8-0.7-7.6
+			C185.8,51.3,187.6,49.5,189.6,48.5z"/>
+		<path class="st195" d="M117.5,27.4c-2.1,3.4-2.8,8-1.3,11.7c1.6,4,5.8,4.9,9.4,6.5c3.9,1.8,7.3,3.7,10.7,6.4
+			c3.5,2.8,7,5.8,11.4,7.1c6.6,2,13.8,1.8,20.5,0.5c16.9-3.3,28.1-28.5,17.5-43.5c1.2,8.2-3.9,9.7-9.7,13.4
+			c5.9-6.6,1.4-19.5-6.9-23.3c10.3,23-16.3,18.5-29.3,16.9C132.4,22.3,122.1,20.1,117.5,27.4z"/>
+		<path class="st195" d="M108.4,32.1c2.2-0.2,4.6,0.3,6.5,1.3c2.4,1.2,4.9,2.3,6.9,4c1.3,1.1,4.4,4.8,3.9,6.8
+			c-0.4,1.5-1.8,0.8-3.1,0.7c-2.4-0.1-5.2,0-7.4,1c-7.4,3.6-9.4,13.4-10.6,20.7c-0.3,1.6-0.2,3.8-1.4,5.1c-3.2-2.3-3.1-9.6-3.8-13.2
+			c-1.4-7.4-1.7-17.6,3.5-23.7C104.4,33.1,106.3,32.3,108.4,32.1z"/>
+		<path class="st201" d="M185.6,16.3c0.2,1,0.2,2,0.2,2.8c0.7,2.9,1.5,5.7,1.1,9c-0.6,4.1-1.8,8.1-3.8,11.9
+			c-2.6,4.8-6.1,9.9-11.4,12.1c-6,2.5-11.2,3.7-17.6,2.2c-6.1-1.4-11.1-4.6-16.8-7.1c-5.6-2.5-11-7.1-17.3-6.6
+			c-0.8,0.1-1.7,0.2-2.5,0.5c2,2.4,5.3,3.3,8.2,4.6c3.9,1.8,7.3,3.7,10.7,6.4c3.5,2.8,7,5.8,11.4,7.1c6.6,2,13.8,1.8,20.5,0.5
+			C185,56.4,199.5,29.3,185.6,16.3z"/>
+		<path class="st201" d="M119.9,40.6c-5.1,0.4-11.5,4.2-13.8,8.9c-3.3,6.6-2.1,13.8-2.1,20.9c0.4-1.2,0.4-2.7,0.7-3.8
+			c1.2-7.2,3.2-17.1,10.6-20.7c2.1-1,4.9-1.1,7.4-1c1.3,0.1,2.7,0.8,3.1-0.7c0.2-0.8-0.2-1.9-0.8-3
+			C123.3,40.7,121.7,40.5,119.9,40.6z"/>
+		<path class="st202" d="M111.9,38.3c3.1-0.2,4.4-2.8,1.2-4.2c-3.5-1.5-7.3,0.6-9.1,3.6c-1.8,2.9-1.1,5.2-1.6,8.2
+			C103,40.8,107.3,38.6,111.9,38.3z"/>
+		<path class="st202" d="M160.4,41.3c-6.6,3-11.4,1.1-17.6-1.6c-2.7-1.2-5.4-2-8.1-3.3c-5.2-2.3-10.4-4.9-16.1-2.3
+			c-0.2-3.2,1.7-6.3,4.2-8.2c2-1.5,4.8-2.4,7.4-2.2c4.2,0.2,8.9,3.6,12.8,1.6c-2.2,1.9-4.4,2.9-7.3,2.6c-2.3-0.2-6-1.5-7.4,1
+			c5.2-2.6,13.7,4.7,18.1,6.5c6.7,2.8,14.3,5.3,20.5-0.1C164.6,38,163.6,39.9,160.4,41.3z"/>
+	</g>
+	<path class="st203" d="M113.7,87.9c0,0,32,18,57.7,3.2c0.8,15.8-11,33.7-31.7,31.6C122,120.9,112.8,109.2,113.7,87.9z"/>
+	<path class="st204" d="M123,116.1c4.2,3.7,9.8,5.9,16.7,6.6c7.1,0.7,13.2-0.9,18.1-4c-4.8-5.5-6.3-7.4-16.3-7.5
+		C128.3,111.2,126.5,114.3,123,116.1z"/>
+	<path class="st2" d="M113.7,87.9c-0.1,1.5-0.1,3,0,4.5c5.8,3.7,30.7,18.1,57.3,5.3c0.4-2.2,0.5-4.4,0.4-6.5
+		C145.7,105.9,113.7,87.9,113.7,87.9z"/>
+	<path class="st205" d="M113.7,87.9c-0.1,1.5-0.1,2.9,0,4.3c3-3.4,12.3,4.3,29.3,5.8c16.5,1.5,26.3-5.8,28.1-0.5
+		c0.3-2.1,0.5-4.3,0.4-6.4C145.7,105.9,113.7,87.9,113.7,87.9z"/>
+	<path class="st2" d="M122.5,115.6c4.3,4,10,6.4,17.2,7.1c8.4,0.9,15.4-1.6,20.6-5.8C144.5,122.7,126.4,114.9,122.5,115.6z"/>
+	<g>
+		<polygon class="st198" points="138,183.9 142.8,192.1 156.6,177.3 149.5,141.5 148.7,131.6 		"/>
+		<polygon class="st195" points="134.6,135.9 125.9,173.4 139.5,189.7 153.9,175.2 147.5,136.3 		"/>
+		<polygon class="st195" points="133.6,127.7 133,136 148.8,138 149.3,128.1 		"/>
+		<polygon class="st206" points="148.1,139.6 147.5,136.3 134.6,135.9 134.1,138.1 		"/>
+		<polygon class="st195" points="132.3,129.1 131.8,136.8 150.3,138.8 150.8,129.7 		"/>
+		<path class="st207" d="M150.8,156.4l-17.6-14.9l-2.2,9.5l21.5,16L150.8,156.4z M129.3,159l-1.2,5.3l19.3,17.5l4.9-4.9L129.3,159z"
+			/>
+		<path class="st208" d="M147.7,151.9c-0.1,1.3-1,2.2-2.1,2.2l-15.3-0.8c-1.1-0.1-1.9-1.1-1.9-2.4l0,0c0.1-1.3,1-2.2,2.1-2.2
+			l15.3,0.8C146.9,149.6,147.8,150.6,147.7,151.9L147.7,151.9z"/>
+		<path class="st2" d="M136.9,151.4c0,0.8-0.4,1.4-0.7,1.4l-4.7-0.3c-0.3,0-0.6-0.7-0.5-1.5l0,0c0-0.8,0.4-1.4,0.7-1.4l4.7,0.3
+			C136.7,149.9,136.9,150.6,136.9,151.4L136.9,151.4z"/>
+	</g>
+	<g>
+		<path class="st209" d="M42.4,154.4c0,0,0.3,23,35.8,15.9c33.8-6.8,19.2-50.1-2.9-46.9L42.4,154.4z"/>
+		<path class="st200" d="M84.7,153c-2.9-3.9-19.3-5.2-35-5.5l-7.3,6.9c0,0,1.1,8.9,10,14.3c3.7-0.6,11.8-2.6,12-8.8
+			C75.6,162.8,90.4,160.9,84.7,153z"/>
+		<g>
+			<path class="st192" d="M85.9,152.3c0.1,2.5-1.8,4.6-4.3,4.7l-39.1,1.5c-2.5,0.1-4.6-1.9-4.7-4.4L35,81c-0.1-2.5,1.8-4.6,4.3-4.7
+				l39.1-1.5c2.5-0.1,4.6,1.8,4.7,4.3L85.9,152.3z"/>
+			<circle class="st210" cx="61.7" cy="150.2" r="4.5"/>
+			<path class="st192" d="M65.3,150.1c-0.1-2-1.8-3.6-3.8-3.5c-2,0.1-3.5,1.8-3.5,3.7c0.1,2,1.8,3.6,3.7,3.5
+				C63.8,153.8,65.4,152.1,65.3,150.1z"/>
+			<path class="st211" d="M82.9,141.2c0,1.1-0.8,2.1-2,2.1l-39,1.4c-1.1,0-2.1-0.8-2.1-2l-2.1-57.6c0-1.1,0.8-2.1,2-2.1l39-1.4
+				c1.1,0,2.1,0.8,2.1,2L82.9,141.2z"/>
+			<path class="st210" d="M62.8,78.9c0,0.6-0.4,1.1-1,1.1l-5.4,0.2c-0.6,0-1.1-0.4-1.1-1l0,0c0-0.6,0.4-1.1,1-1.1l5.4-0.2
+				C62.3,77.9,62.8,78.3,62.8,78.9L62.8,78.9z"/>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="80.1745" y1="396.0199" x2="95.2322" y2="366.2061" gradientTransform="matrix(0.9993 -3.720000e-002 -3.720000e-002 -0.9993 -18.4409 479.5532)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path class="st212" d="M81.4,100.4l-0.6-16.8c0-1.1-1-2-2.1-2l-39,1.4c-1.1,0-2,1-2,2.1l1.5,40.4C47.8,120.4,66,109.4,81.4,100.4
+				z"/>
+		</g>
+		<path class="st200" d="M59.4,144.1c-0.2-4.3-2.7-8.6-6.7-9.1c9.7-17.6-10.8-15.6-10.8-15.6l5.1,25.2L59.4,144.1z"/>
+		<path class="st209" d="M37.3,154.7l14.8-3.7c4.5-1.5,7.4-13.8,0.1-15.4s-19.9,2.8-22.5,3.8C27.1,140.5,22,152,37.3,154.7z"/>
+		<path class="st209" d="M42.3,167.5c5.6,1.1,13.6,0.9,13.6,0.9c4.2-0.1,10-9.7,4.2-13c-5.8-3.3-17.7-3-20.2-2.9
+			C37.4,152.6,29.5,164.9,42.3,167.5z"/>
+		<path class="st209" d="M33.1,138.7l14.1-3.6c4.3-1.4,7-13.7,0.1-15.3c-6.9-1.6-19,2.3-21.4,3.6C23.4,124.8,18.5,135.9,33.1,138.7z
+			"/>
+		<path class="st209" d="M98.2,146.6c-6.8-22.5,10.5-30.2-7.9-32.9c-15-2.2-9.7,25-3.5,29.7"/>
+	</g>
+</g>
+</svg>

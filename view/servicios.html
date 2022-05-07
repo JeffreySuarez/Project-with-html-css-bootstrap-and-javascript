@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Cargando Fuentes-->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+
+    
+    <!--animate.css-->
+    <link rel="stylesheet" href="../css/animate.min.css">
+
+    <!--Cargando Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <!--Cargando Stilos-->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../img/icon2.png">
+    
+    <title>Servicios - IT CAPTURE | Soluciones en tecnologia para Empresas</title>
+</head>
+<body class="paginas_internas">
+
+
+    <section class="bienvenidos container-fluid no-gutters">
+        <header class="encabezado navbar fixed-top container-fluid no-gutters " role="banner" id="encabezado1">
+            <div class="container p-0">    
+                <!--el siguiente enlace es el logo-->
+                <a href="#">
+                    <img src="../img/l1.png" alt="logo del sitio">
+                </a>
+                <!--el primer boton es de busqueda y el otro es el de menu-->
+                <button type="button" class="boton_buscar" data-toggle="collapse" data-target="#bloque_buscar" aria-expanded="false" ><i class="fas fa-search"></i></button>
+                <button type="button" class="boton_menu d-block d-md-none" data-toggle="collapse" data-target="#menu_principal" aria-expanded="false" ><i class="fas fa-bars"></i></button>
+                <!--el siguiente formulario es para el boton de buscar, al precionar despliegue el formulario-->
+                <form action="#" id="bloque_buscar" class="collapse">
+                    <div class="contenedor_bloque_buscar">
+                        <input type="text" placeholder="Buscar...">
+                        <input type="submit" value="Buscar">
+                    </div>
+                </form>
+                <!--lo siguiente es el menu nav-->
+                <nav id="menu_principal" class="collapse">
+                    <ul>
+                        <li ><a href="../index.html">Inicio</a></li>
+                        <li  ><a href="./nosotros.html">Nosotros</a></li>
+                        <li class="active"><a href="./servicios.html">Servicios</a></li>
+                        <li ><a href="./productosIoT.html">Productos IoT</a></li>
+                        <li ><a href="./contactos.html">Contacto</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <!--el div siguiente es el texto del encabezado-->
+        <div class="texto_encabezado  text-center no-gutters">
+            
+            <h1 class="display-4 wow animate__animated animate__bounceIn ">Servicios</h1>
+            <p class="wow animate__animated animate__bounceIn" data-wow-delay="0.3s">Diseñamos Aplicaciones para empresas</p>
+            
+            
+        </div>
+       
+    </section>
+
+
+    <!--  Ruta de Encabezado -->
+    <section class="ruta container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class=" ruta_submenu col-12 text-right">
+                    <a href="../index.html">Inicio</a>  >>  Servicios
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <main class="listas-servicios py-2">
+       <div class="container">
+         <div class="row">
+            <div class="col-md-4">
+
+              <article class="item_servicios">
+                <i class="fas fa-mobile-alt"></i>
+                <h4>Desarrollo de Aplicaciones Moviles</h4>
+                <p>
+                  Desarrollamos aplicaciones moviles y plataformas web. Nuestra principal cualidad esta en el desarrollo de software a medida de tus necesidades.
+                </p>
+                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#servicio1">Mas informacion</a>
+              </article>
+            </div>
+
+            <div class="col-md-4">
+              <article class="item_servicios">
+                <i class="fas fa-microchip"></i>
+                <h4>Consultoria Tecnologica</h4>
+                <p>
+                  Ofrecemos consultoria tecnologica especializada en movilidad, necesaria previo al desarrollo de cualquier proyecto.
+                </p>
+                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#servicio2">Mas informacion</a>
+              </article>
+            </div>
+
+            <div class="col-md-4">
+              <article class="item_servicios">
+                <i class="fas fa-bullseye"></i>
+                <h4>Proyectos personalizados</h4>
+                <p>
+                  ¡Diseñamos el IoT para ti! Si no encuentra lo que busca en nuestro catálogo, se lo diseñamos.
+                  <br>
+                  Cuéntanos tu reto y desarrollaremos la tecnología necesaria para conquistarlo.
+                </p>
+                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#servicio3">Mas informacion</a>
+              </article>
+            </div>
+         </div>
+       </div>
+    </main>
+    
+ <!--ventana  Modal 1-->
+    <div class="modal fade" id="servicio1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+
+            <h5 class="modal-title" >Desarrollo de Aplicaciones Moviles</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+
+          </div>
+          <div class="modal-body container">
+            <div class="row">
+              <div class="col-md-8">
+                <p>El desarrollo de apps puede ayudar a tu empresa a ser más productiva, mejorar el retorno sobre tus inversiones, y fortalecer tus canales de comunicación con tus clientes, entre otras cosas.</p>
+                <p>En IT Capture entendemos la importancia de las aplicaciones móviles y web para tu negocio, por eso ponemos a tu disposición nuestros años de experiencia como expertos en tecnología.</p>
+                
+              </div>
+              <div class="col-md-4 d-flex">
+                <img src="../img/servicio-1.svg" alt=""    width="200" class="img-fluid mx-auto" >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+<!--ventana  Modal 2-->
+    <div class="modal fade" id="servicio2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+
+            <h5 class="modal-title" >Consultoria Tecnologica</h5>
+
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+
+          </div>
+          <div class="modal-body container">
+            <div class="row">
+              <div class="col-md-8">
+                <p>
+                  Descubra todas las ventajas para mejorar la productividad de su negocio con la tecnología IoT.
+                  <br>
+                  <br>
+                  Si tu empresa está desarrollando un proyecto de IoT y necesitas asesoría sobre los dispositivos que mejor se ajustan a tus objetivos, las ofertas de conectividad más adecuadas disponibles para tu proyecto, o plataformas en la nube para análisis de datos, utiliza nuestros servicios de consultoría para encontrar una solución adecuada.
+                  <br>
+                  <br>
+                  Solicita nuestro servicio y nuestros expertos compartirán contigo todos sus conocimientos. Descubra toda la experiencia que necesita en IT Capture.
+                  </p>
+                
+              </div>
+              <div class="col-md-4 d-flex">
+                <img src="../img/servicio-2.svg" alt=""    width="200" class="img-fluid mx-auto" >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--ventana  Modal 3-->
+    <div class="modal fade" id="servicio3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+
+            <h5 class="modal-title" >Proyectos personalizados</h5>
+
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+
+          </div>
+          <div class="modal-body container">
+            <div class="row">
+              <div class="col-md-8">
+                <p>IT Capture ayuda a las empresas a mejorar su productividad al incluir soluciones de IoT que pueden proporcionar un mejor rendimiento, ahorro de costes e incluso garantizar el cumplimiento de normativas medioambientales específicas.</p>
+              </div>
+              <div class="col-md-4 d-flex">
+                <img src="../img/servicio-3.svg" alt=""    width="200" class="img-fluid mx-auto" >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+   
+
+    <footer class="piedepagina py-3" role="contentinfo">
+        <div class="container">
+            <p>2021 @ IT Capture Todos los derechos reservados</p>
+            <ul class="redes_sociales">
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <a data-scroll class="ir_arriba" href="#encabezado1">
+        <i class="fas fa-arrow-circle-up"></i>
+    </a>
+
+     <!--Cargando Bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+     <!--Cargando iconos-->
+     <script src="https://kit.fontawesome.com/b61b4c9b7e.js" crossorigin="anonymous"></script>
+     <script src="./js/owl.carousel.min.js"></script>
+    
+     <script src="../js/wow.min.js"></script>
+     <script src="../js/smooth-scroll.min.js"></script>
+     <script src="../js/sitio.js"></script>
+ 
+
+
+</body>
+</html>
